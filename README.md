@@ -1,1 +1,1 @@
-# https://puderpach.github.io/Preview-Publish-Draft/
+# https://puderpach.github.io/Preview-Publish-Live/
